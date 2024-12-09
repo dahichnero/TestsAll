@@ -1,0 +1,206 @@
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\CoverletSourceRootsMapping
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\testhost.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\testhost.exe
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\nunit.engine.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\nunit.engine.api.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\nunit.engine.core.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\testcentric.engine.metadata.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\NaturalNumsTest.deps.json
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\NaturalNumsTest.runtimeconfig.json
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\NaturalNumsTest.runtimeconfig.dev.json
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\NaturalNumsTest.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\ref\NaturalNumsTest.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\NaturalNumsTest.pdb
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\Newtonsoft.Json.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\NuGet.Frameworks.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\nunit.framework.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\NaturalNumsLib.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\NaturalNumsLib.pdb
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\obj\Debug\net5.0\NaturalNumsTest.csproj.AssemblyReference.cache
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\obj\Debug\net5.0\NaturalNumsTest.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\obj\Debug\net5.0\NaturalNumsTest.AssemblyInfoInputs.cache
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\obj\Debug\net5.0\NaturalNumsTest.AssemblyInfo.cs
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\obj\Debug\net5.0\NaturalNumsTest.csproj.CoreCompileInputs.cache
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\obj\Debug\net5.0\NaturalNumsTest.csproj.CopyComplete
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\obj\Debug\net5.0\NaturalNumsTest.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\obj\Debug\net5.0\ref\NaturalNumsTest.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\obj\Debug\net5.0\NaturalNumsTest.pdb
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsTest\obj\Debug\net5.0\NaturalNumsTest.genruntimeconfig.cache
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\testhost.exe
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\testhost.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\testcentric.engine.metadata.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\NaturalNumsTest.deps.json
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\NaturalNumsTest.runtimeconfig.json
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\NaturalNumsTest.runtimeconfig.dev.json
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\NaturalNumsTest.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\NaturalNumsTest.pdb
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\NaturalNumsLib.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\bin\Debug\net5.0\NaturalNumsLib.pdb
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\obj\Debug\net5.0\NaturalNumsTest.csproj.AssemblyReference.cache
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\obj\Debug\net5.0\NaturalNumsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\obj\Debug\net5.0\NaturalNumsTest.AssemblyInfoInputs.cache
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\obj\Debug\net5.0\NaturalNumsTest.AssemblyInfo.cs
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\obj\Debug\net5.0\NaturalNumsTest.csproj.CoreCompileInputs.cache
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\obj\Debug\net5.0\NaturalN.6D8FBA41.Up2Date
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\obj\Debug\net5.0\NaturalNumsTest.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\obj\Debug\net5.0\refint\NaturalNumsTest.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\obj\Debug\net5.0\NaturalNumsTest.pdb
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\obj\Debug\net5.0\NaturalNumsTest.genruntimeconfig.cache
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsTest\obj\Debug\net5.0\ref\NaturalNumsTest.dll

@@ -1,0 +1,11 @@
+C:\Users\Данил\Desktop\мамка\MyCollections\MyCollections\bin\Debug\net6.0\MyCollections.deps.json
+C:\Users\Данил\Desktop\мамка\MyCollections\MyCollections\bin\Debug\net6.0\MyCollections.dll
+C:\Users\Данил\Desktop\мамка\MyCollections\MyCollections\bin\Debug\net6.0\MyCollections.pdb
+C:\Users\Данил\Desktop\мамка\MyCollections\MyCollections\obj\Debug\net6.0\MyCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данил\Desktop\мамка\MyCollections\MyCollections\obj\Debug\net6.0\MyCollections.AssemblyInfoInputs.cache
+C:\Users\Данил\Desktop\мамка\MyCollections\MyCollections\obj\Debug\net6.0\MyCollections.AssemblyInfo.cs
+C:\Users\Данил\Desktop\мамка\MyCollections\MyCollections\obj\Debug\net6.0\MyCollections.csproj.CoreCompileInputs.cache
+C:\Users\Данил\Desktop\мамка\MyCollections\MyCollections\obj\Debug\net6.0\MyCollections.dll
+C:\Users\Данил\Desktop\мамка\MyCollections\MyCollections\obj\Debug\net6.0\refint\MyCollections.dll
+C:\Users\Данил\Desktop\мамка\MyCollections\MyCollections\obj\Debug\net6.0\MyCollections.pdb
+C:\Users\Данил\Desktop\мамка\MyCollections\MyCollections\obj\Debug\net6.0\ref\MyCollections.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CaesarShifrConsole/1.0.0": {
+        "dependencies": {
+          "ChezarShifr": "1.0.0"
+        },
+        "runtime": {
+          "CaesarShifrConsole.dll": {}
+        }
+      },
+      "ChezarShifr/1.0.0": {
+        "runtime": {
+          "ChezarShifr.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CaesarShifrConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ChezarShifr/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

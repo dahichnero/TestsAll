@@ -1,0 +1,23 @@
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\ChezarShifr\ChezarShifr\bin\Debug\net5.0\ChezarShifr.deps.json
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\ChezarShifr\ChezarShifr\bin\Debug\net5.0\ChezarShifr.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\ChezarShifr\ChezarShifr\bin\Debug\net5.0\ref\ChezarShifr.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\ChezarShifr\ChezarShifr\bin\Debug\net5.0\ChezarShifr.pdb
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\ChezarShifr\ChezarShifr\obj\Debug\net5.0\ChezarShifr.csproj.AssemblyReference.cache
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\ChezarShifr\ChezarShifr\obj\Debug\net5.0\ChezarShifr.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\ChezarShifr\ChezarShifr\obj\Debug\net5.0\ChezarShifr.AssemblyInfoInputs.cache
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\ChezarShifr\ChezarShifr\obj\Debug\net5.0\ChezarShifr.AssemblyInfo.cs
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\ChezarShifr\ChezarShifr\obj\Debug\net5.0\ChezarShifr.csproj.CoreCompileInputs.cache
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\ChezarShifr\ChezarShifr\obj\Debug\net5.0\ChezarShifr.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\ChezarShifr\ChezarShifr\obj\Debug\net5.0\ref\ChezarShifr.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\ChezarShifr\ChezarShifr\obj\Debug\net5.0\ChezarShifr.pdb
+C:\Users\User\Desktop\гоба боба 2.0\ChezarShifr\ChezarShifr\bin\Debug\net5.0\ChezarShifr.deps.json
+C:\Users\User\Desktop\гоба боба 2.0\ChezarShifr\ChezarShifr\bin\Debug\net5.0\ChezarShifr.dll
+C:\Users\User\Desktop\гоба боба 2.0\ChezarShifr\ChezarShifr\bin\Debug\net5.0\ref\ChezarShifr.dll
+C:\Users\User\Desktop\гоба боба 2.0\ChezarShifr\ChezarShifr\bin\Debug\net5.0\ChezarShifr.pdb
+C:\Users\User\Desktop\гоба боба 2.0\ChezarShifr\ChezarShifr\obj\Debug\net5.0\ChezarShifr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\гоба боба 2.0\ChezarShifr\ChezarShifr\obj\Debug\net5.0\ChezarShifr.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\гоба боба 2.0\ChezarShifr\ChezarShifr\obj\Debug\net5.0\ChezarShifr.AssemblyInfo.cs
+C:\Users\User\Desktop\гоба боба 2.0\ChezarShifr\ChezarShifr\obj\Debug\net5.0\ChezarShifr.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\гоба боба 2.0\ChezarShifr\ChezarShifr\obj\Debug\net5.0\ChezarShifr.dll
+C:\Users\User\Desktop\гоба боба 2.0\ChezarShifr\ChezarShifr\obj\Debug\net5.0\ref\ChezarShifr.dll
+C:\Users\User\Desktop\гоба боба 2.0\ChezarShifr\ChezarShifr\obj\Debug\net5.0\ChezarShifr.pdb

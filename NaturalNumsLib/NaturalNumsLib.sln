@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaturalNumsLib", "NaturalNumsLib\NaturalNumsLib.csproj", "{63A3D666-FCC1-4CFE-A88E-CC1F1CC6FC33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaturalNumsTest", "NaturalNumsTest\NaturalNumsTest.csproj", "{9E0B430E-DDF4-410D-AC38-8377200DD90E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63A3D666-FCC1-4CFE-A88E-CC1F1CC6FC33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A3D666-FCC1-4CFE-A88E-CC1F1CC6FC33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A3D666-FCC1-4CFE-A88E-CC1F1CC6FC33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A3D666-FCC1-4CFE-A88E-CC1F1CC6FC33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E0B430E-DDF4-410D-AC38-8377200DD90E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E0B430E-DDF4-410D-AC38-8377200DD90E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E0B430E-DDF4-410D-AC38-8377200DD90E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E0B430E-DDF4-410D-AC38-8377200DD90E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A5C46A6-5063-4223-8694-194B4F451A32}
+	EndGlobalSection
+EndGlobal

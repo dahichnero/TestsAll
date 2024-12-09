@@ -1,0 +1,11 @@
+D:\GraphMM\GraphMM\bin\Debug\net8.0\GraphMM.deps.json
+D:\GraphMM\GraphMM\bin\Debug\net8.0\GraphMM.dll
+D:\GraphMM\GraphMM\bin\Debug\net8.0\GraphMM.pdb
+D:\GraphMM\GraphMM\obj\Debug\net8.0\GraphMM.GeneratedMSBuildEditorConfig.editorconfig
+D:\GraphMM\GraphMM\obj\Debug\net8.0\GraphMM.AssemblyInfoInputs.cache
+D:\GraphMM\GraphMM\obj\Debug\net8.0\GraphMM.AssemblyInfo.cs
+D:\GraphMM\GraphMM\obj\Debug\net8.0\GraphMM.csproj.CoreCompileInputs.cache
+D:\GraphMM\GraphMM\obj\Debug\net8.0\GraphMM.dll
+D:\GraphMM\GraphMM\obj\Debug\net8.0\refint\GraphMM.dll
+D:\GraphMM\GraphMM\obj\Debug\net8.0\GraphMM.pdb
+D:\GraphMM\GraphMM\obj\Debug\net8.0\ref\GraphMM.dll

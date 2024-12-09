@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+9A3imLUNpg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Данил\\Desktop\\мамка\\ChezarShifr\\ChezarShifr\\ChezarShifr.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Данил\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Данил\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Данил\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

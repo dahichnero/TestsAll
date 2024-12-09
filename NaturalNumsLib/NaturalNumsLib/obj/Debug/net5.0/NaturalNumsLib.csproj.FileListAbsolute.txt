@@ -1,0 +1,24 @@
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsLib\bin\Debug\net5.0\NaturalNumsLib.deps.json
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsLib\bin\Debug\net5.0\NaturalNumsLib.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsLib\bin\Debug\net5.0\ref\NaturalNumsLib.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsLib\bin\Debug\net5.0\NaturalNumsLib.pdb
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsLib\obj\Debug\net5.0\NaturalNumsLib.csproj.AssemblyReference.cache
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsLib\obj\Debug\net5.0\NaturalNumsLib.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsLib\obj\Debug\net5.0\NaturalNumsLib.AssemblyInfoInputs.cache
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsLib\obj\Debug\net5.0\NaturalNumsLib.AssemblyInfo.cs
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsLib\obj\Debug\net5.0\NaturalNumsLib.csproj.CoreCompileInputs.cache
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsLib\obj\Debug\net5.0\NaturalNumsLib.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsLib\obj\Debug\net5.0\ref\NaturalNumsLib.dll
+\\192.168.200.195\компьютерные классы\!Основы алгоритмизации (ПР-21) 2021-2022\Пинигина Дарья\NaturalNumsLib\NaturalNumsLib\obj\Debug\net5.0\NaturalNumsLib.pdb
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsLib\bin\Debug\net5.0\NaturalNumsLib.deps.json
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsLib\bin\Debug\net5.0\NaturalNumsLib.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsLib\bin\Debug\net5.0\NaturalNumsLib.pdb
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsLib\obj\Debug\net5.0\NaturalNumsLib.csproj.AssemblyReference.cache
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsLib\obj\Debug\net5.0\NaturalNumsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsLib\obj\Debug\net5.0\NaturalNumsLib.AssemblyInfoInputs.cache
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsLib\obj\Debug\net5.0\NaturalNumsLib.AssemblyInfo.cs
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsLib\obj\Debug\net5.0\NaturalNumsLib.csproj.CoreCompileInputs.cache
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsLib\obj\Debug\net5.0\NaturalNumsLib.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsLib\obj\Debug\net5.0\refint\NaturalNumsLib.dll
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsLib\obj\Debug\net5.0\NaturalNumsLib.pdb
+C:\Users\Данил\Desktop\мамка\NaturalNumsLib\NaturalNumsLib\obj\Debug\net5.0\ref\NaturalNumsLib.dll

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4c8e1352-913b-4ef2-8578-5c1662d2fca8": {
+      "ProjectGuid": "4c8e1352-913b-4ef2-8578-5c1662d2fca8",
+      "DisplayName": "ChezarShifr",
+      "ColorIndex": 0
+    },
+    "49051e40-838f-4533-9b6b-3efd98ae2003": {
+      "ProjectGuid": "49051e40-838f-4533-9b6b-3efd98ae2003",
+      "DisplayName": "ChezarShifrTests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
